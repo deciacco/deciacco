@@ -11,7 +11,7 @@ I'm a detail-oriented half geek half human with experience and exposure in many 
 - 🔭 I’m currently working on: *Learning new technologies and trying to apply them to my everyday work.*
 - 🌱 I’m currently learning: *Life.*
 - 👯 I’m looking to collaborate on: *Anything really...love working, learning and succeeding with like-minded people!*
-- 🤔 I’m looking for help with: *Lots of different things, too many to list!*
+- 🤔 I’m looking for help with: *See the second item above...*
 - 💬 Ask me about: *Motorcycling.*
 - 📫 How to reach me:
   - Email: ec@[repositoryname].com
