@@ -6,11 +6,11 @@ https://deciacco.github.io
 
 I'm a detail-oriented half geek half human with experience and exposure in many different areas of IT - from infrastructure, to security, programming, networking, etc. 
 
-- 🔭 I’m currently working on learning new technologies and trying to apply them to my everyday work.
-- 🌱 I’m currently learning life.
-- 👯 I’m looking to collaborate on anything really, love working, learning and succeeding together!
-- 🤔 I’m looking for help with lots of different things, too many to list!
-- 💬 Ask me about motorcycling.
+- 🔭 I’m currently working on: *Learning new technologies and trying to apply them to my everyday work.*
+- 🌱 I’m currently learning: *Life.*
+- 👯 I’m looking to collaborate on: *Anything really...love working, learning and succeeding with like-minded people!*
+- 🤔 I’m looking for help with: *Lots of different things, too many to list!*
+- 💬 Ask me about: *Motorcycling.*
 - 📫 How to reach me:
   - Email: ec@[repositoryname].com
   - LinkedIn: https://www.linkedin.com/in/eugenio-cilento/
