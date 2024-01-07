@@ -14,4 +14,7 @@ I'm a detail-oriented half geek half human with experience and exposure in many 
 - 📫 How to reach me:
   - Email: ec@[repositoryname].com
   - LinkedIn: https://www.linkedin.com/in/eugenio-cilento/
-- ⚡ Fun fact: the speed of light is equal to 299,792,458 meters per second.
+- ⚡ Fun facts: 
+  - the speed of light is 299,792,458 meters per second.
+  - the average distance to the sun is 149,597,870,700 meters.
+  - that's approximately 8 minutes and 19 seconds of 'travel' time.
