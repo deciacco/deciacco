@@ -1,6 +1,8 @@
 ![](1609282245699.jpg)
 
-### Hi, 👋 I'm Eugenio!
+# Hi, 👋 I'm Eugenio!
+![](https://komarev.com/ghpvc/?username=deciacco)
+[![GitHub followers](https://img.shields.io/github/followers/deciacco.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/deciacco?tab=followers)
 
 https://deciacco.github.io
 
