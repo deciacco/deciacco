@@ -10,6 +10,6 @@ I'm a detail-oriented half geek half human with experience and exposure in many 
 - 🤔 I’m looking for help with lots of different things, too many to list!
 - 💬 Ask me about motorcycling.
 - 📫 How to reach me:
-  - Email: ec@<repositoryname>.com
+  - Email: ec@[repositoryname].com
   - LinkedIn: https://www.linkedin.com/in/eugenio-cilento/
 - ⚡ Fun fact: the speed of light is equal to 299,792,458 meters per second.
